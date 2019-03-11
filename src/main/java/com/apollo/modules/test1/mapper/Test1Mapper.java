@@ -9,8 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  *  Mapper 接口
  * </p>
  *
- * @author apollo123
- * @since 2018-10-25
+ *
  */
 @Mapper
 public interface Test1Mapper extends BaseMapper<Test1> {

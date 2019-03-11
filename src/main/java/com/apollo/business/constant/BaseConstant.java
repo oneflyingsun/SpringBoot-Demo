@@ -1,8 +1,6 @@
 package com.apollo.business.constant;
 
-/**
- * Created by superlee on 2017/11/8.
- */
+
 public final class BaseConstant {
     public static final String DEFAULT_CLIENT_SALT = "hyperch@in"; // 默认token加密密码
     public static final String DEFAULT_PRIVATE_KEY_PASSWORD = "123"; //默认加密私钥的密码

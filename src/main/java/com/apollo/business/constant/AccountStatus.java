@@ -1,8 +1,6 @@
 package com.apollo.business.constant;
 
-/**
- * Created by superlee on 2017/11/9.
- */
+
 public enum AccountStatus {
     VALID(0, "有效"),
     INVALID(1, "无效"),

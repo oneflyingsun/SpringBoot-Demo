@@ -2,7 +2,6 @@ package com.apollo.vo;
 
 /**
  *
- * @author superlee
  * @date 2017/11/7
  */
 public class Token {

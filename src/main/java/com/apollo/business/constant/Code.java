@@ -1,7 +1,7 @@
 package com.apollo.business.constant;
 
 /**
- * Created by superlee on 2017/11/6.
+ *
  * [1000 - 1999] 登录注册，权限校验
  * [3000 - 3999] 项目模块
  * [2000 - 2999]  信用模块

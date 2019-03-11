@@ -4,7 +4,7 @@ package com.apollo.business.exception;
 import com.apollo.business.response.BaseResult;
 
 /**
- * Created by superlee on 2017/11/6.
+ *
  * 基本异常
  */
 public abstract class BaseException extends Exception {

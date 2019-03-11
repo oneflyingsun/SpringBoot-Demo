@@ -3,9 +3,6 @@ package com.apollo.business.response;
 
 import com.apollo.business.constant.Code;
 
-/**
- * Created by superlee on 2017/11/6.
- */
 @SuppressWarnings("unchecked")
 public final class BaseResult<T>{
     private int code;

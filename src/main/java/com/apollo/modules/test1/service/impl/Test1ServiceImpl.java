@@ -11,8 +11,6 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- * @author apollo123
- * @since 2018-10-25
  */
 @Service
 public class Test1ServiceImpl extends ServiceImpl<Test1Mapper, Test1> implements ITest1Service {

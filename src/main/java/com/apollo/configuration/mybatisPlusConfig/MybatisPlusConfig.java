@@ -13,11 +13,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import javax.sql.DataSource;
 
-/**
- * Author: WangRui
- * Date: 2018/5/20
- * Describe: mybatis-plus配置
- */
+
 @EnableTransactionManagement
 @Configuration
 @MapperScan("com.apollo.modules.*.mapper.*Mapper")

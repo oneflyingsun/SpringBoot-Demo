@@ -3,10 +3,7 @@ package com.apollo.business.response;
 
 import com.apollo.business.constant.Code;
 
-/**
- * Created by superlee on 2017/11/7.
- * baseResult工程方法
- */
+
 @SuppressWarnings("unchecked")
 public final class BaseResultFactory {
 

@@ -5,14 +5,7 @@ import java.io.Serializable;
 import com.baomidou.mybatisplus.activerecord.Model;
 import java.io.Serializable;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author apollo123
- * @since 2018-10-25
- */
+
 public class Test1 extends Model<Test1> {
 
     private static final long serialVersionUID = 1L;

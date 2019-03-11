@@ -9,9 +9,7 @@ import javax.xml.bind.DatatypeConverter;
 import java.security.Key;
 import java.util.Date;
 
-/**
- * Created by superlee on 2018/1/10.
- */
+
 public final class JwtUtils {
 
     private static final Logger logger = Logger.getLogger(JwtUtils.class);
